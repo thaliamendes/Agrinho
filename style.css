@@ -1,0 +1,42 @@
+body{
+    background-color: lightskyblue;
+    
+    
+}
+.titulos{
+    color: black;
+    border-style: solid;
+    border-width: 8px;
+    border-color: whitesmoke;
+    margin-left: 10%;
+    margin-right: 58%;
+    border-radius: 10px;
+    background-color: lightblue;
+    text-align: center;
+}
+#mapa{
+    border-radius: 15px;
+    border-width: 10px;
+    border-left: 55%;
+    border-right: 50%;
+    border-style: solid;
+    margin-top: 0%;
+    margin-bottom: 56%;
+    margin-left: 49%;
+    margin-right: 55%;
+    width: 50%;
+    float: left;
+    float: bottom;
+}
+h4{
+    width: 60%;
+    color: rgb(61, 60, 60);
+}
+h1{
+    color: rgba(184, 135, 11, 0.767);
+    text-align: initial;
+}
+.topicos{
+    color: rgb(61, 60, 60);
+    width: 65%;
+}
