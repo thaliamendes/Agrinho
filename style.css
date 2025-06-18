@@ -20,11 +20,10 @@ body{
     border-left: 55%;
     border-right: 50%;
     border-style: solid;
-
     width: 55%;
 }
 h4{
-    width: 65%;
+    width: 70%;
     color: rgb(61, 60, 60);
 }
 h1{
@@ -33,11 +32,11 @@ h1{
 }
 .topicos{
     color: rgb(61, 60, 60);
-    width: 65%;
+    width: 70%;
 }
 h2 {
     color: teal;
-    width: 60%;
+    width: 70%;
 }
 h3{
     color: rgb(61, 60, 60);
