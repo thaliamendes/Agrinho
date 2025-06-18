@@ -37,4 +37,8 @@ h1{
 }
 h2 {
     color: teal;
+    width: 60%;
+}
+h3{
+    color: rgb(61, 60, 60);
 }
