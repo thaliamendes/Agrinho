@@ -20,11 +20,8 @@ body{
     border-left: 55%;
     border-right: 50%;
     border-style: solid;
-    margin-top: 0%;
-    margin-bottom: 56%;
-    margin-left: 49%;
-    margin-right: 55%;
-    width: 50%;
+
+    width: 55%;
 }
 h4{
     width: 60%;
@@ -40,7 +37,4 @@ h1{
 }
 h2 {
     color: teal;
-}
-.resumo{
-    margin-top: 56%;
 }
